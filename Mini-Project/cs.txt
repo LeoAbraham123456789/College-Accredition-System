@@ -1,0 +1,2 @@
+Dept: CS
+CheckList: Registration, Yearly Report, Self Study Report
